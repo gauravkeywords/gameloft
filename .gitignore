@@ -1,0 +1,25 @@
+# Ignore everything by default
+*
+
+# Keep this gitignore file
+!.gitignore
+
+# Only allow these top-level project folders and their contents
+!Code/
+!Code/**
+!N8N/
+!N8N/**
+!openwebui/
+!openwebui/**
+!supabase/**
+!supabase-project/**
+!supabase-project/**
+
+# Optional: explicitly ignore local env copies and OS files
+.env*
+*.local
+.DS_Store
+.vscode/
+.idea/
+*.md
+*.docx

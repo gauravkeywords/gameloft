@@ -1,0 +1,22 @@
+
+services:
+  web:
+    image: n8nio/n8n
+    ports:
+      - "5678:5678"
+    volumes:
+      - ./n8n_data:/home/node/.n8n
+    environment:
+      - N8N_HOST=localhost
+      - N8N_PORT=5678
+      - N8N_PROTOCOL=http
+      - N8N_SECURE_COOKIE=false
+
+    networks:
+      - supabase_network
+
+networks:
+  supabase_network:
+    name: supabase_default  # <-- The exact name from your list
+    external: true
+

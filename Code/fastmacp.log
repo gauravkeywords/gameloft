@@ -1,0 +1,162 @@
+nohup: ignoring input
+
+
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│                         ▄▀▀ ▄▀█ █▀▀ ▀█▀ █▀▄▀█ █▀▀ █▀█                        │
+│                         █▀  █▀█ ▄▄█  █  █ ▀ █ █▄▄ █▀▀                        │
+│                                                                              │
+│                                FastMCP 2.13.2                                │
+│                                                                              │
+│                                                                              │
+│                   🖥  Server name: Vector Search Server                       │
+│                                                                              │
+│                   📦 Transport:   SSE                                        │
+│                   🔗 Server URL:  http://0.0.0.0:8002/sse                    │
+│                                                                              │
+│                   📚 Docs:        https://gofastmcp.com                      │
+│                   🚀 Hosting:     https://fastmcp.cloud                      │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+
+[12/03/25 11:17:07] INFO     Starting MCP server 'Vector Search   server.py:2058
+                             Server' with transport 'sse' on                    
+                             http://0.0.0.0:8002/sse                            
+INFO:     Started server process [2398157]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8002 (Press CTRL+C to quit)
+INFO:     172.19.0.15:41224 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:41230 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:41232 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:41242 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:41256 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:41266 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:41272 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:41280 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:41296 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:41302 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:41312 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:41324 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:41332 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:41342 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:41348 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:41354 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:41366 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:41374 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:41386 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:41396 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:41408 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:41416 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:41424 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:41430 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:41434 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:41448 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:41458 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:41474 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:41482 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:41484 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:41488 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:41490 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:41498 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:41502 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:41516 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:41522 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:41530 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:41534 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:41548 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:41554 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:41564 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:41580 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:43600 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:43612 - "POST /messages/?session_id=f7d783b1c8294bc5a223427683c0e521 HTTP/1.1" 202 Accepted
+INFO:     172.19.0.15:43612 - "POST /messages/?session_id=f7d783b1c8294bc5a223427683c0e521 HTTP/1.1" 202 Accepted
+INFO:     172.19.0.15:43626 - "POST /messages/?session_id=f7d783b1c8294bc5a223427683c0e521 HTTP/1.1" 202 Accepted
+2025-12-04 12:12:27,982 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+INFO:     172.19.0.15:43612 - "POST /messages/?session_id=f7d783b1c8294bc5a223427683c0e521 HTTP/1.1" 202 Accepted
+2025-12-04 12:12:29,906 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-12-04 12:12:29,972 - botocore.credentials - INFO - Found credentials in environment variables.
+2025-12-04 12:12:30,022 - __main__ - INFO - Searching for: game launch December 2025
+2025-12-04 12:12:30,157 - __main__ - INFO - Query embedding obtained, length: 1024
+2025-12-04 12:12:30,460 - httpx - INFO - HTTP Request: POST http://98.84.126.223:8000//rest/v1/rpc/search_content_by_date_range "HTTP/1.1 200 OK"
+INFO:     172.19.0.15:43612 - "POST /messages/?session_id=f7d783b1c8294bc5a223427683c0e521 HTTP/1.1" 202 Accepted
+2025-12-04 12:12:33,300 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-12-04 12:12:33,332 - __main__ - INFO - Searching for: Gameloft new game launch December 2025 Asphalt Modern Combat Dungeon Hunter
+2025-12-04 12:12:33,469 - __main__ - INFO - Query embedding obtained, length: 1024
+2025-12-04 12:12:33,716 - httpx - INFO - HTTP Request: POST http://98.84.126.223:8000//rest/v1/rpc/search_content_by_date_range "HTTP/1.1 200 OK"
+INFO:     172.19.0.15:43612 - "POST /messages/?session_id=f7d783b1c8294bc5a223427683c0e521 HTTP/1.1" 202 Accepted
+2025-12-04 12:12:36,473 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-12-04 12:12:36,504 - __main__ - INFO - Searching for: Asphalt 10 release launch date December
+2025-12-04 12:12:36,643 - __main__ - INFO - Query embedding obtained, length: 1024
+2025-12-04 12:12:36,891 - httpx - INFO - HTTP Request: POST http://98.84.126.223:8000//rest/v1/rpc/search_content_by_date_range "HTTP/1.1 200 OK"
+INFO:     172.19.0.15:51064 - "POST /messages/?session_id=f7d783b1c8294bc5a223427683c0e521 HTTP/1.1" 202 Accepted
+2025-12-04 12:12:41,070 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-12-04 12:12:41,098 - __main__ - INFO - Searching for: Gameloft December update patch notes winter event
+2025-12-04 12:12:41,231 - __main__ - INFO - Query embedding obtained, length: 1024
+2025-12-04 12:12:41,480 - httpx - INFO - HTTP Request: POST http://98.84.126.223:8000//rest/v1/rpc/search_content_by_date_range "HTTP/1.1 200 OK"
+INFO:     172.19.0.15:40888 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:40890 - "POST /messages/?session_id=d6dc636a6bbe4987a719fd36f1d6fbad HTTP/1.1" 202 Accepted
+INFO:     172.19.0.15:40890 - "POST /messages/?session_id=d6dc636a6bbe4987a719fd36f1d6fbad HTTP/1.1" 202 Accepted
+INFO:     172.19.0.15:40894 - "POST /messages/?session_id=d6dc636a6bbe4987a719fd36f1d6fbad HTTP/1.1" 202 Accepted
+2025-12-04 12:12:53,258 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+INFO:     172.19.0.15:55266 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:55282 - "POST /messages/?session_id=a031fc2828944e48beccba4fb713010e HTTP/1.1" 202 Accepted
+INFO:     172.19.0.15:55282 - "POST /messages/?session_id=a031fc2828944e48beccba4fb713010e HTTP/1.1" 202 Accepted
+INFO:     172.19.0.15:55286 - "POST /messages/?session_id=a031fc2828944e48beccba4fb713010e HTTP/1.1" 202 Accepted
+2025-12-04 12:13:03,559 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+INFO:     172.19.0.15:38764 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:38776 - "POST /messages/?session_id=f351b3322c98455e889eebb03d90de0a HTTP/1.1" 202 Accepted
+INFO:     172.19.0.15:38776 - "POST /messages/?session_id=f351b3322c98455e889eebb03d90de0a HTTP/1.1" 202 Accepted
+INFO:     172.19.0.15:38778 - "POST /messages/?session_id=f351b3322c98455e889eebb03d90de0a HTTP/1.1" 202 Accepted
+2025-12-04 13:11:14,356 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+INFO:     172.19.0.15:56696 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:56704 - "POST /messages/?session_id=c9758abcd5794cb3877f1515fd9db692 HTTP/1.1" 202 Accepted
+INFO:     172.19.0.15:56710 - "POST /messages/?session_id=c9758abcd5794cb3877f1515fd9db692 HTTP/1.1" 202 Accepted
+INFO:     172.19.0.15:56704 - "POST /messages/?session_id=c9758abcd5794cb3877f1515fd9db692 HTTP/1.1" 202 Accepted
+2025-12-04 13:11:19,484 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+INFO:     172.19.0.15:45074 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:45076 - "POST /messages/?session_id=a92c2b1e1dc94aeab39c87e34e25d16c HTTP/1.1" 202 Accepted
+INFO:     172.19.0.15:45076 - "POST /messages/?session_id=a92c2b1e1dc94aeab39c87e34e25d16c HTTP/1.1" 202 Accepted
+INFO:     172.19.0.15:45090 - "POST /messages/?session_id=a92c2b1e1dc94aeab39c87e34e25d16c HTTP/1.1" 202 Accepted
+2025-12-04 13:11:29,797 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+INFO:     172.19.0.15:46328 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:46334 - "POST /messages/?session_id=2d78c0a5e35b49f6a741dce7598829cc HTTP/1.1" 202 Accepted
+INFO:     172.19.0.15:46334 - "POST /messages/?session_id=2d78c0a5e35b49f6a741dce7598829cc HTTP/1.1" 202 Accepted
+INFO:     172.19.0.15:46336 - "POST /messages/?session_id=2d78c0a5e35b49f6a741dce7598829cc HTTP/1.1" 202 Accepted
+2025-12-04 13:12:19,668 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+INFO:     172.19.0.15:46334 - "POST /messages/?session_id=2d78c0a5e35b49f6a741dce7598829cc HTTP/1.1" 202 Accepted
+2025-12-04 13:12:22,052 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-12-04 13:12:22,088 - __main__ - INFO - Searching for: Asphalt latest updates news
+2025-12-04 13:12:22,230 - __main__ - INFO - Query embedding obtained, length: 1024
+2025-12-04 13:12:22,519 - httpx - INFO - HTTP Request: POST http://98.84.126.223:8000//rest/v1/rpc/search_content_by_date_range "HTTP/1.1 200 OK"
+INFO:     172.19.0.15:42174 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:42184 - "POST /messages/?session_id=ac763b4595e34aba9f76d09e8379a290 HTTP/1.1" 202 Accepted
+INFO:     172.19.0.15:42184 - "POST /messages/?session_id=ac763b4595e34aba9f76d09e8379a290 HTTP/1.1" 202 Accepted
+INFO:     172.19.0.15:42186 - "POST /messages/?session_id=ac763b4595e34aba9f76d09e8379a290 HTTP/1.1" 202 Accepted
+2025-12-04 13:12:34,905 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+INFO:     172.19.0.15:47744 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:47758 - "POST /messages/?session_id=425da718b98140829530a1e373ee6954 HTTP/1.1" 202 Accepted
+INFO:     172.19.0.15:47758 - "POST /messages/?session_id=425da718b98140829530a1e373ee6954 HTTP/1.1" 202 Accepted
+INFO:     172.19.0.15:47768 - "POST /messages/?session_id=425da718b98140829530a1e373ee6954 HTTP/1.1" 202 Accepted
+2025-12-16 05:35:20,012 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+INFO:     172.19.0.15:47758 - "POST /messages/?session_id=425da718b98140829530a1e373ee6954 HTTP/1.1" 202 Accepted
+2025-12-16 05:35:21,794 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-12-16 05:35:21,828 - __main__ - INFO - Searching for: latest news updates Gameloft games
+2025-12-16 05:35:21,951 - __main__ - INFO - Query embedding obtained, length: 1024
+2025-12-16 05:35:22,355 - httpx - INFO - HTTP Request: POST http://98.84.126.223:8000//rest/v1/rpc/search_content_by_date_range "HTTP/1.1 200 OK"
+INFO:     172.19.0.15:47758 - "POST /messages/?session_id=425da718b98140829530a1e373ee6954 HTTP/1.1" 202 Accepted
+2025-12-16 05:35:25,138 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-12-16 05:35:25,170 - __main__ - INFO - Searching for: Asphalt Modern Combat Dungeon Hunter patch notes updates
+2025-12-16 05:35:25,296 - __main__ - INFO - Query embedding obtained, length: 1024
+2025-12-16 05:35:25,659 - httpx - INFO - HTTP Request: POST http://98.84.126.223:8000//rest/v1/rpc/search_content_by_date_range "HTTP/1.1 200 OK"
+INFO:     172.19.0.15:45476 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:44954 - "POST /messages/?session_id=8434487dbb9849c78543d7e17294e0c0 HTTP/1.1" 202 Accepted
+INFO:     172.19.0.15:44954 - "POST /messages/?session_id=8434487dbb9849c78543d7e17294e0c0 HTTP/1.1" 202 Accepted
+INFO:     172.19.0.15:44958 - "POST /messages/?session_id=8434487dbb9849c78543d7e17294e0c0 HTTP/1.1" 202 Accepted
+2025-12-16 05:35:45,294 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+INFO:     172.19.0.15:33536 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:33544 - "POST /messages/?session_id=ca17d4bed79c4fc0bd23ca0f6b630de7 HTTP/1.1" 202 Accepted
+INFO:     172.19.0.15:33544 - "POST /messages/?session_id=ca17d4bed79c4fc0bd23ca0f6b630de7 HTTP/1.1" 202 Accepted
+INFO:     172.19.0.15:33558 - "POST /messages/?session_id=ca17d4bed79c4fc0bd23ca0f6b630de7 HTTP/1.1" 202 Accepted
+2025-12-16 05:35:55,577 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
