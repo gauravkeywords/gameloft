@@ -342,7 +342,7 @@
             "accept-encoding": "gzip, deflate, br, zstd",
             "accept": "*/*",
             "connection": "keep-alive",
-            "authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoic2VydmljZV9yb2xlIiwiaXNzIjoic3VwYWJhc2UiLCJpYXQiOjE3NTc1ODc1OTcsImV4cCI6MjA3Mjk0NzU5N30.cCaolI2IksSFtXcj9YvpUOBwfSDKkbEX_ubwHnNoJDU",
+            "authorization": "Bearer token",
             "content-type": "application/json",
             "content-length": "5189"
           },
