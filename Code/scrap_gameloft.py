@@ -40,6 +40,8 @@ EMBEDDING_MODEL_ID = os.environ.get("MODEL_ID_EMBEDDING")
 CHUNK_SIZE = 500 
 CHUNK_OVERLAP = 100
 
+SEARXNG_BASE_URL = "http://98.84.126.223:8080"
+
 def make_serializable(obj):
     """Convert datetime/date objects to ISO strings for JSON serialization."""
     if isinstance(obj, (datetime, date)):
@@ -551,7 +553,7 @@ db = NewsDatabase()
 
 if __name__ == "__main__":
     # --- Configuration ---
-    SEARXNG_BASE_URL = "http://98.84.126.223:8080"
+    
 
     # Your list of topics
     SEARCH_TOPICS = [

@@ -1,0 +1,13 @@
+# Supabase Credentials
+
+SUPABASE_URL="SUPABASE_URL"
+SUPABASE_SERVICE_KEY="SUPABASE_SERVICE_KEY"
+
+# Models (non-secret identifiers)
+MODEL_ID_EMBEDDING=amazon.titan-embed-text-v2:0
+MODEL_ID=us.anthropic.claude-haiku-4-5-20251001-v1:0
+
+# AWS Credentials for Bedrock
+AWS_REGION_NAME="us-east-1"
+AWS_ACCESS_KEY_ID="AWS_ACCESS_KEY_ID"
+AWS_SECRET_ACCESS_KEY="AWS_SECRET_ACCESS_KEY"
