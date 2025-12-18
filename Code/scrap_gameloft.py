@@ -518,7 +518,7 @@ def process_stored_articles(limit=None):
     
     return processed_records
 
-def run_complete_pipeline(topic, searx_url, max_pages=20, time_range="week", process_limit=None):
+def run_complete_pipeline(topic, searx_url, max_pages=20, time_range="day", process_limit=None):
     """
     Complete pipeline: Collect from SearXNG, process with Trafilatura, upload to Supabase.
     """
@@ -632,7 +632,7 @@ if __name__ == "__main__":
                 topic=topic,
                 searx_url=SEARXNG_BASE_URL,
                 max_pages=10,          # Reduced pages per topic since you have many topics
-                time_range=None,    # Keep it relevant to recent news
+                time_range="day",    # Keep it relevant to recent news
                 process_limit=None
             )
 
