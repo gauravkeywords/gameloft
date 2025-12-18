@@ -160,3 +160,83 @@ INFO:     172.19.0.15:33544 - "POST /messages/?session_id=ca17d4bed79c4fc0bd23ca
 INFO:     172.19.0.15:33544 - "POST /messages/?session_id=ca17d4bed79c4fc0bd23ca0f6b630de7 HTTP/1.1" 202 Accepted
 INFO:     172.19.0.15:33558 - "POST /messages/?session_id=ca17d4bed79c4fc0bd23ca0f6b630de7 HTTP/1.1" 202 Accepted
 2025-12-16 05:35:55,577 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+INFO:     172.19.0.15:55836 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:55842 - "POST /messages/?session_id=a4e1160d6b324a46a1ba46669dc815dd HTTP/1.1" 202 Accepted
+INFO:     172.19.0.15:55842 - "POST /messages/?session_id=a4e1160d6b324a46a1ba46669dc815dd HTTP/1.1" 202 Accepted
+INFO:     172.19.0.15:55852 - "POST /messages/?session_id=a4e1160d6b324a46a1ba46669dc815dd HTTP/1.1" 202 Accepted
+2025-12-18 07:50:04,891 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+INFO:     172.19.0.15:55842 - "POST /messages/?session_id=a4e1160d6b324a46a1ba46669dc815dd HTTP/1.1" 202 Accepted
+2025-12-18 07:50:06,737 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-12-18 07:50:06,773 - __main__ - INFO - Searching for: upcoming events
+2025-12-18 07:50:06,904 - __main__ - INFO - Query embedding obtained, length: 1024
+2025-12-18 07:50:07,321 - httpx - INFO - HTTP Request: POST http://98.84.126.223:8000//rest/v1/rpc/search_content_by_date_range "HTTP/1.1 200 OK"
+INFO:     172.19.0.15:55842 - "POST /messages/?session_id=a4e1160d6b324a46a1ba46669dc815dd HTTP/1.1" 202 Accepted
+2025-12-18 07:50:08,896 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-12-18 07:50:08,928 - __main__ - INFO - Searching for: events schedule
+2025-12-18 07:50:09,069 - __main__ - INFO - Query embedding obtained, length: 1024
+2025-12-18 07:50:09,464 - httpx - INFO - HTTP Request: POST http://98.84.126.223:8000//rest/v1/rpc/search_content_by_date_range "HTTP/1.1 200 OK"
+INFO:     172.19.0.15:55842 - "POST /messages/?session_id=a4e1160d6b324a46a1ba46669dc815dd HTTP/1.1" 202 Accepted
+2025-12-18 07:50:12,043 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-12-18 07:50:12,075 - __main__ - INFO - Searching for: Asphalt Modern Combat Dungeon Hunter events news
+2025-12-18 07:50:12,209 - __main__ - INFO - Query embedding obtained, length: 1024
+2025-12-18 07:50:12,628 - httpx - INFO - HTTP Request: POST http://98.84.126.223:8000//rest/v1/rpc/search_content_by_date_range "HTTP/1.1 200 OK"
+INFO:     172.19.0.15:55842 - "POST /messages/?session_id=a4e1160d6b324a46a1ba46669dc815dd HTTP/1.1" 202 Accepted
+2025-12-18 07:50:15,537 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-12-18 07:50:15,571 - __main__ - INFO - Searching for: Disney Speedstorm Modern Combat December January update
+2025-12-18 07:50:15,690 - __main__ - INFO - Query embedding obtained, length: 1024
+2025-12-18 07:50:16,080 - httpx - INFO - HTTP Request: POST http://98.84.126.223:8000//rest/v1/rpc/search_content_by_date_range "HTTP/1.1 200 OK"
+INFO:     172.19.0.15:34792 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:34798 - "POST /messages/?session_id=82342cf71a2f49cd8dbce0e2f9457971 HTTP/1.1" 202 Accepted
+INFO:     172.19.0.15:34810 - "POST /messages/?session_id=82342cf71a2f49cd8dbce0e2f9457971 HTTP/1.1" 202 Accepted
+INFO:     172.19.0.15:34798 - "POST /messages/?session_id=82342cf71a2f49cd8dbce0e2f9457971 HTTP/1.1" 202 Accepted
+2025-12-18 07:50:30,206 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+INFO:     172.19.0.15:37028 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:37038 - "POST /messages/?session_id=74d770defd91440bb4b0c0407b48871a HTTP/1.1" 202 Accepted
+INFO:     172.19.0.15:37038 - "POST /messages/?session_id=74d770defd91440bb4b0c0407b48871a HTTP/1.1" 202 Accepted
+INFO:     172.19.0.15:37042 - "POST /messages/?session_id=74d770defd91440bb4b0c0407b48871a HTTP/1.1" 202 Accepted
+2025-12-18 07:50:40,446 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+INFO:     172.19.0.15:42860 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:42868 - "POST /messages/?session_id=33986784a43745cf9cf05f5043a3d013 HTTP/1.1" 202 Accepted
+INFO:     172.19.0.15:42868 - "POST /messages/?session_id=33986784a43745cf9cf05f5043a3d013 HTTP/1.1" 202 Accepted
+INFO:     172.19.0.15:42870 - "POST /messages/?session_id=33986784a43745cf9cf05f5043a3d013 HTTP/1.1" 202 Accepted
+2025-12-18 07:51:33,737 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+INFO:     172.19.0.15:42868 - "POST /messages/?session_id=33986784a43745cf9cf05f5043a3d013 HTTP/1.1" 202 Accepted
+2025-12-18 07:51:36,417 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-12-18 07:51:36,447 - __main__ - INFO - Searching for: player feedback sentiment reviews 2025
+2025-12-18 07:51:36,589 - __main__ - INFO - Query embedding obtained, length: 1024
+2025-12-18 07:51:37,032 - httpx - INFO - HTTP Request: POST http://98.84.126.223:8000//rest/v1/rpc/search_content_by_date_range "HTTP/1.1 200 OK"
+INFO:     172.19.0.15:52924 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:52938 - "POST /messages/?session_id=f8dddce1c14346938c234ecd4da429b2 HTTP/1.1" 202 Accepted
+INFO:     172.19.0.15:52938 - "POST /messages/?session_id=f8dddce1c14346938c234ecd4da429b2 HTTP/1.1" 202 Accepted
+INFO:     172.19.0.15:52954 - "POST /messages/?session_id=f8dddce1c14346938c234ecd4da429b2 HTTP/1.1" 202 Accepted
+2025-12-18 07:52:09,094 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+INFO:     172.19.0.15:33912 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:33928 - "POST /messages/?session_id=a671dd419e544f8c808855d0abd8a6e3 HTTP/1.1" 202 Accepted
+INFO:     172.19.0.15:33928 - "POST /messages/?session_id=a671dd419e544f8c808855d0abd8a6e3 HTTP/1.1" 202 Accepted
+INFO:     172.19.0.15:33944 - "POST /messages/?session_id=a671dd419e544f8c808855d0abd8a6e3 HTTP/1.1" 202 Accepted
+2025-12-18 07:52:19,355 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+INFO:     172.19.0.15:34102 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:34106 - "POST /messages/?session_id=70a27df9775e4f2c8b6b1ed6d4557d1b HTTP/1.1" 202 Accepted
+INFO:     172.19.0.15:34106 - "POST /messages/?session_id=70a27df9775e4f2c8b6b1ed6d4557d1b HTTP/1.1" 202 Accepted
+INFO:     172.19.0.15:34122 - "POST /messages/?session_id=70a27df9775e4f2c8b6b1ed6d4557d1b HTTP/1.1" 202 Accepted
+2025-12-18 07:53:49,363 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+INFO:     172.19.0.15:34106 - "POST /messages/?session_id=70a27df9775e4f2c8b6b1ed6d4557d1b HTTP/1.1" 202 Accepted
+2025-12-18 07:53:51,247 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-12-18 07:53:51,280 - __main__ - INFO - Searching for: Gameloft technology 2026 future plans AI machine learning graphics
+2025-12-18 07:53:51,410 - __main__ - INFO - Query embedding obtained, length: 1024
+2025-12-18 07:53:51,831 - httpx - INFO - HTTP Request: POST http://98.84.126.223:8000//rest/v1/rpc/search_content_by_date_range "HTTP/1.1 200 OK"
+INFO:     172.19.0.15:34106 - "POST /messages/?session_id=70a27df9775e4f2c8b6b1ed6d4557d1b HTTP/1.1" 202 Accepted
+2025-12-18 07:53:54,173 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-12-18 07:53:54,205 - __main__ - INFO - Searching for: Gameloft innovation roadmap development engine technology platform
+2025-12-18 07:53:54,329 - __main__ - INFO - Query embedding obtained, length: 1024
+2025-12-18 07:53:54,711 - httpx - INFO - HTTP Request: POST http://98.84.126.223:8000//rest/v1/rpc/search_content_by_date_range "HTTP/1.1 200 OK"
+INFO:     172.19.0.15:33734 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:33744 - "POST /messages/?session_id=4fcddad3ef374df0b77ebffb570483a7 HTTP/1.1" 202 Accepted
+INFO:     172.19.0.15:33744 - "POST /messages/?session_id=4fcddad3ef374df0b77ebffb570483a7 HTTP/1.1" 202 Accepted
+INFO:     172.19.0.15:33760 - "POST /messages/?session_id=4fcddad3ef374df0b77ebffb570483a7 HTTP/1.1" 202 Accepted
+2025-12-18 07:54:09,621 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+INFO:     172.19.0.15:37810 - "GET /sse HTTP/1.1" 200 OK
+INFO:     172.19.0.15:37816 - "POST /messages/?session_id=a577b203ffef4f838189b46277b5008c HTTP/1.1" 202 Accepted
+INFO:     172.19.0.15:37816 - "POST /messages/?session_id=a577b203ffef4f838189b46277b5008c HTTP/1.1" 202 Accepted
+INFO:     172.19.0.15:37822 - "POST /messages/?session_id=a577b203ffef4f838189b46277b5008c HTTP/1.1" 202 Accepted
+2025-12-18 07:54:19,861 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
